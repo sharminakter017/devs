@@ -1,0 +1,14 @@
+{
+  "name": "server",
+  "version": "1.0.0",
+  "description": "This is js files",
+  "main": "index.js",
+  "scripts": {
+    "sharmin" : "json-server --watch database.json --port 5050"
+  },
+  "author": "sharmin akter",
+  "license": "ISC",
+  "dependencies": {
+    "json-server": "^0.17.0"
+  }
+}
